@@ -1,2 +1,2 @@
 # django-rest
-Django rest exploration
+Django rest exploratory repo.
